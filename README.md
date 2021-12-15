@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shelkeniteesh
 - 👀 I’m interested in systems design
-- 🌱 I’m currently learning distributed systems and basic of system design
+- 🌱 I’m currently learning distributed systems and basics of system design
 - 💞️ I’m looking to collaborate on computing systems models
 - 📫 How to reach me ? ... No, thank you! I'm learning something new.
 
