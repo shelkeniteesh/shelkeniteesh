@@ -2,7 +2,7 @@
 - 👀 I’m interested in systems design
 - 🌱 I’m currently learning distributed systems and basics of system design
 - 💞️ I’m looking to collaborate on computing systems models
-- 📫 How to reach me ? ... No, thank you! I'm learning something new.
+- 📫 How to reach me ? ... shelkeniteesh2001@gmail.com
 
 <!---
 shelkeniteesh/shelkeniteesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
